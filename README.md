@@ -1,5 +1,5 @@
 # Real-time image-based parking occupancy detection and automatic parking slot deliniation usingdeep learning: A tutorial
-This is the MATLAB tutorial of our upcoming Book Chapter (will update the details soon). We provide a MATLAB [Live Script] (https://github.com/DebadityaRMIT/Parking/blob/master/FinalCode.mlx)
+This is the MATLAB tutorial of our upcoming Book Chapter (will update the details soon). We provide a MATLAB [Live Script](https://github.com/DebadityaRMIT/Parking/blob/master/FinalCode.mlx)
 
 (.mlx file), and the corresponding PDF document for convinience. 
 
