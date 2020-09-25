@@ -7,4 +7,4 @@ In the second tutorial, we perform spatio-temporal analysis of the detections ma
 
 The tutorial is intended to run on MATLAB 2020a, although the code can run in MATLAB versions higher than 2018a. Additional toolboxes might be required to run the experiments that include computer vision toolbox, statistics and machine learning toolbox, deep learning toolbox, signal processing toolbox and automated driving toolbox. For running the live script smoothly, please ensure to increase the java heap memory of MATLAB, as demonstrated at the start of the live script.
 
-![ProjectImage](https://github.com/DebadityaRMIT/Parking/blob/master/ProjectThumbnail.png)
+[![ProjectImage](https://github.com/DebadityaRMIT/Parking/blob/master/ProjectThumbnail.png)](https://github.com/DebadityaRMIT/Parking/blob/master/FinalCode.pdf)
